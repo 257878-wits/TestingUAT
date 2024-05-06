@@ -3,9 +3,9 @@
     "version": "0.0.1",
     "description": "Codecov Example Javascript",
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "devDependencies": {
-      "jest": "^28.1.1"
+        "jest": "^28.1.3"
     }
-  }
+}
